@@ -1,4 +1,4 @@
 # MyImages
 
-This repo is my image image host.
+This repo is my image host.
 
